@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "319771746633",
+    "firebase_url": "https://trafindo-apps-default-rtdb.firebaseio.com",
+    "project_id": "trafindo-apps",
+    "storage_bucket": "trafindo-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319771746633:android:1a9f5c2f65316a0e61fa98",
+        "android_client_info": {
+          "package_name": "com.tppsatrafo.trafindo_psa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIEHFmzv5CWuUItFS3eb_t32jDDHiLFzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
